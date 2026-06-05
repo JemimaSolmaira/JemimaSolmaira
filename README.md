@@ -10,8 +10,6 @@
 <!--- About Me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-#### I am a `Student` at [Faculty of Engineering](https://portal.ingenieria.usac.edu.gt/) at [San Carlos de Guatemala University (USAC)](https://www.usac.edu.gt/).
-
 #### I’m currently learning `Computer Science` and `Software Engineering`.
 
 <!--- Connect with me -->
