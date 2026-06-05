@@ -10,7 +10,8 @@
 <!--- About Me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - :school: I am a `Junior` at [Faculty of Engineering](https://portal.ingenieria.usac.edu.gt/) at [Universidad de San Carlos de Guatemala](https://portal.usac.edu.gt/).
-#### I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :thinking: I am currently working as an Implementer, this is [MY RESUME](https://www.linkedin.com/in/jemima-solmaira-chavajay-quieju-864390282/).
 
 <!--- Connect with me -->
 ## <picture><img  width = 50px></picture> 🤝🏻 &nbsp;Connect with Me
@@ -30,7 +31,13 @@
 
 <p> 
   <a > 
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <kbd>Programming Languages</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+    <img width="30px" src="sql_logo.svg" alt="SQL" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a> 
   &emsp;
   <a > 
