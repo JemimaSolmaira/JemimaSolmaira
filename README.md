@@ -9,7 +9,7 @@
 
 <!--- About Me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+- :school: I am a `Junior` at [Faculty of Engineering](https://portal.ingenieria.usac.edu.gt/) at [Universidad de San Carlos de Guatemala](https://portal.usac.edu.gt/).
 #### I’m currently learning `Computer Science` and `Software Engineering`.
 
 <!--- Connect with me -->
